@@ -1,0 +1,15 @@
+4 //number of nodes
+3 //number of edges
+//1st edge
+0 //source
+1 //destination
+//2nd edge
+0 //source
+2 // destination
+//3rd edge
+0 // source
+1 // destination
+
+
+//output
+1
